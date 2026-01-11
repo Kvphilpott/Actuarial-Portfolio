@@ -1,2 +1,20 @@
-# Actuarial-Portfolio
-Actuarial science and data analytics portfolio – Kiana Philpott
+# Kiana Philpott – Actuarial Portfolio
+
+🎓 2025 Actuarial Science Graduate 
+📍 Attending ASNA Conference 2026  
+📊 Interested in actuarial analysis, risk, and data analytics
+
+---
+
+## Skills
+- Excel (advanced formulas, VBA basics, pivot tables)
+- MATLAB
+- SQL
+- Statistical Analysis (Frequentist & Bayesian)
+- Data Visualization
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/kiana-philpott/
+- Email: kianaphilpott@gmail.com
