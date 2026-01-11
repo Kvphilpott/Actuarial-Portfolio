@@ -16,7 +16,7 @@
 ---
 
 ## Projects
-- [Polio, Infant Deaths, and Life Expectancy Analysis](https://github.com/Kvphilpott/polio-life-expectancy-analysis)
+- Polio, Infant Deaths, and Life Expectancy Analysis - https://kvphilpott.github.io/Polio-Life-Expectancy-Analysis
 
 ---
 ## Contact
