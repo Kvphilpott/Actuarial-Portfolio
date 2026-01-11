@@ -17,7 +17,7 @@
 
 ## Projects
 - Polio, Infant Deaths, and Life Expectancy Analysis - https://kvphilpott.github.io/Polio-Life-Expectancy-Analysis
-
+- Smokers Age Demographics Analysis - https://kvphilpott.github.io/Age-and-Smoking-Analysis/
 ---
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/kiana-philpott/
