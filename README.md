@@ -15,6 +15,10 @@
 
 ---
 
+## Projects
+- [Polio, Infant Deaths, and Life Expectancy Analysis](https://github.com/Kvphilpott/polio-life-expectancy-analysis)
+
+---
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/kiana-philpott/
 - Email: kianaphilpott@gmail.com
